@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<conf>
+<param>
+      <db_conf   host="10.1.54.50" port="3306" db_name="fut_ultra_history_trading_data" user="shengli" pwd="shengli0" />
+</param>
+</conf>
+  

@@ -1,0 +1,66 @@
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:show tables;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211102;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211102;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211102;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211103;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211103;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211103;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211104;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211104;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211104;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211105;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211105;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211105;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211108;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211108;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211108;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211109;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211109;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211109;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211110;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211110;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211110;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select count(1) from t_fut_orders_20211111;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(quantity) from t_fut_orders_20211111;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select order_shengli_accept_time from t_fut_orders_20211111;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211102;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211103;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211104;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211105;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211108;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211109;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211110;
+connect mysql database, server:10.1.54.50:3306 database:fut_ultra_history_trading_data user:shengli pwd:shengli0
+mysql query:select sum(exec_qty) from t_fut_executions_20211111;
